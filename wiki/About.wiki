@@ -1,0 +1,25 @@
+#summary An overview of the IPM plugin collection.
+
+= Introduction =
+
+This is a collection of Wordpress MU plugins developed by Indiana Public Media and G. Pablo Vanwoerkom.  Many serve purposes that are particular to public broadcasting, arts or news, while others are general site improvements that may be useful to those operating any sort of Wordpress MU site.
+
+
+= Plugins list =
+
+  *ipm-category_manager
+  *ipm-eartheats
+  *ipm-more-fields
+  *ipm-npr_article_importer
+  *ipm-npr_queries
+  *ipm-npr_related_stories
+  *ipm-paste_detect
+  *ipm-program-scheduler
+  *ipm-schedule-override
+  *ipm-wfiu_playlist
+  *ipm-wfiu_utils
+  *ipm-wordpress_slideshow
+
+= Details =
+
+(coming soon)
