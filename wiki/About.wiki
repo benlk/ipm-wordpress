@@ -16,8 +16,8 @@ This is a collection of Wordpress MU plugins developed by Indiana Public Media a
   * ipm-paste_detect
   * ipm-program-scheduler
   * ipm-schedule-override
-  * ipm-wfiu_playlist
-  * ipm-wfiu_utils
+  * ipm-playlist
+  * ipm-utils
   * ipm-wordpress_slideshow
 
 = Details =
