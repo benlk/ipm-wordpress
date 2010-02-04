@@ -7,18 +7,18 @@ This is a collection of Wordpress MU plugins developed by Indiana Public Media a
 
 = Plugins list =
 
-  *ipm-category_manager
-  *ipm-eartheats
-  *ipm-more-fields
-  *ipm-npr_article_importer
-  *ipm-npr_queries
-  *ipm-npr_related_stories
-  *ipm-paste_detect
-  *ipm-program-scheduler
-  *ipm-schedule-override
-  *ipm-wfiu_playlist
-  *ipm-wfiu_utils
-  *ipm-wordpress_slideshow
+  * ipm-category_manager
+  * ipm-eartheats
+  * ipm-more-fields
+  * ipm-npr_article_importer
+  * ipm-npr_queries
+  * ipm-npr_related_stories
+  * ipm-paste_detect
+  * ipm-program-scheduler
+  * ipm-schedule-override
+  * ipm-wfiu_playlist
+  * ipm-wfiu_utils
+  * ipm-wordpress_slideshow
 
 = Details =
 
