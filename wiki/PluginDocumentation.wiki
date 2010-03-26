@@ -1,5 +1,4 @@
 #summary Documentation for our plugins
-#labels Featured,Phase-Deploy
 
 = Introduction =
 
