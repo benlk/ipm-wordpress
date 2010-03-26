@@ -1,4 +1,4 @@
-#summary Brief user's guide to the wordpress  slideshow
+#summary Brief user's guide to the wordpress  slideshow plugin
 #labels Phase-Support,Phase-Deploy,Featured
 
 = Introduction =
