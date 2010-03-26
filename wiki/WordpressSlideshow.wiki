@@ -1,5 +1,5 @@
 #summary Brief user's guide to the wordpress  slideshow
-#labels Phase-Support,Phase-Deploy
+#labels Phase-Support,Phase-Deploy,Featured
 
 = Introduction =
 
