@@ -1,0 +1,20 @@
+#summary Brief user's guide to the wordpress  slideshow
+#labels Phase-Support,Phase-Deploy
+
+= Introduction =
+
+The purpose of this guide is to demonstrate how to create and manage photos and slideshows using WordPress and the slideshow plugin.
+
+It is recommended that you use Mozilla Firefox to upload photos using WPSS; Safari and Internet Explorer should work as well, but they have not been completely tested.
+
+==Uploading and labeling photos==
+
+Once you have opened Firefox, log into the Wordpress wp-admin area and enter your username and password.  When you view a list of posts from wp-admin, you will be able to see whether a post already has a photo associated by observing the far-right column. If there is already a title in bold, this post already has a photo associated.
+
+http://ipm-wordpress.googlecode.com/svn/trunk/wp-content/plugins/ipm-wordpress-slideshow/screenshot1.png
+
+To upload a photo, click on the post title to edit, and then scroll down until you see a box called Slideshow.  Most articles will only need a single photo, so click on the Single Photo button, then the Add photo button.
+
+http://ipm-wordpress.googlecode.com/svn/trunk/wp-content/plugins/ipm-wordpress-slideshow/screenshot2.png
+
+This will bring up the WPSS photo selection screen.  Usually, you will want to upload a new photo for an article.  If you want to choose a photo that's already in the photo library, however, you may click on the See all button, or use the search field if you know the name of the image.
