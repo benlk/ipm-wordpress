@@ -1,0 +1,3 @@
+Indiana Public Media is the radio and television organization at Indiana University-Bloomington, composed of WFIU Public Radio, and WTIU Public Television.
+
+This is a collection of Wordpress MU plugins developed by Indiana Public Media. Many serve purposes that are particular to public broadcasting, arts or news, while others are general site improvements that may be useful to those operating any sort of Wordpress MU site.
